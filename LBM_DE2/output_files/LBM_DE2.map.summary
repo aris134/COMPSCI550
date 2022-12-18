@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Jan 22 14:19:20 2022
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : LBM_DE2
+Top-level Entity Name : LBM_DE2
+Family : Cyclone IV E
+Total logic elements : 8,169
+    Total combinational functions : 7,856
+    Dedicated logic registers : 1,303
+Total registers : 1303
+Total pins : 3
+Total virtual pins : 0
+Total memory bits : 294,912
+Embedded Multiplier 9-bit elements : 456
+Total PLLs : 0
