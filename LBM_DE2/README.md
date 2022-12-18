@@ -11,4 +11,4 @@ Grid: D2Q9
 	
 BGK single-relaxation model
 
-This was a project for the class COMPSCI 550 (Advanced Computer Architecture I) at Duke University.# LBM_DE2
+This was a project for the class COMPSCI 550 (Advanced Computer Architecture I) at Duke University.
